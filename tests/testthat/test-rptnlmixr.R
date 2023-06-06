@@ -1,10 +1,8 @@
 suppressPackageStartupMessages(library("ggplot2"))
 suppressPackageStartupMessages(library("xpose"))
 suppressPackageStartupMessages(library("ggforce"))
-suppressPackageStartupMessages(library("ggPMX")   )
 suppressPackageStartupMessages(library("onbrand"))
 suppressPackageStartupMessages(library("nlmixr2rpt"))
-
 
 # Objects used in the tests below:
 rptyaml    = system.file(package="nlmixr2rpt", "examples", "report_fit_test.yaml")
