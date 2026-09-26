@@ -1,6 +1,7 @@
-d069b7e3ef44cb7aeabcaa4ba91ba668 *DESCRIPTION
-fcae4cc5a7c95c3f31daabd26eecfd13 *NAMESPACE
-6c59b4fbbc7ece2a18db89e002464acd *NEWS.md
+895df7b4288949c1337a761e3bdba447 *DESCRIPTION
+4940ca270814d81dcb21ea87b93a35fd *NAMESPACE
+098bb33415bbcb26291a8f7320836820 *NEWS.md
+f5f2214e9ed308092d466a7222c66b9a *R/build_equations.R
 5b7c780380d61467a9c9127312ddc8bf *R/build_figures.R
 e189f972204438dbdbbf701c238f5c58 *R/build_tables.R
 eb47ac3ef38f776550c2cae18caaf88d *R/rptnlmixr.R
@@ -8,10 +9,10 @@ eb47ac3ef38f776550c2cae18caaf88d *R/rptnlmixr.R
 613ba4fcf4deb8e71ca1cf2a203946eb *build/vignette.rds
 6d641d23780c65d2b3e2dfd3ed280354 *inst/doc/Accessing_Figures_and_Tables.R
 49756a209eb2fe410b0aa0cd7172d643 *inst/doc/Accessing_Figures_and_Tables.Rmd
-8e5e73c945a7ecd2c4cd68d1a78f08e7 *inst/doc/Accessing_Figures_and_Tables.html
+282a8397b2ef5d600b584be0e7f5ca06 *inst/doc/Accessing_Figures_and_Tables.html
 e1e37b02735d8e5158b0ea4a4ebb172f *inst/doc/Reporting_nlmixr_Fit_Results.R
 5b962253fc8a39f59b2f2d5aefcf5335 *inst/doc/Reporting_nlmixr_Fit_Results.Rmd
-3b692b2b795a4b7b75c91a9f44157611 *inst/doc/Reporting_nlmixr_Fit_Results.html
+22ff89ddf088fc7ccb9975fe833fb083 *inst/doc/Reporting_nlmixr_Fit_Results.html
 b2254f11b3aab1938aa57ad526ed7fdf *inst/examples/TEST_DATA.csv
 59dd8e3496be9c044e6b51b0a061b52e *inst/examples/TEST_DATA_DDT.csv
 055c2bcd50e51d03c52a3514e0c53dfe *inst/examples/model.R
@@ -21,7 +22,7 @@ b2254f11b3aab1938aa57ad526ed7fdf *inst/examples/TEST_DATA.csv
 475455cc1e35fc617e81130dda698497 *inst/templates/nlmixr_obnd_template.docx
 b99f448b397baecc2eee8f7b415ebe59 *inst/templates/nlmixr_obnd_template.pptx
 747dc91b003c7d8b75a1a3ced44e5822 *inst/templates/nlmixr_obnd_template.yaml
-8ca92fca6b72658e6364901cad073977 *inst/templates/report_fit.yaml
+51454f432abef47fcea87c56a8d7e37e *inst/templates/report_fit.yaml
 115aacb019ea1a3437629db5c37951a7 *man/build_figures.Rd
 1aa6de39a2f6b057c097eff1cd17d703 *man/build_tables.Rd
 2e9e5c22db8d5522e53079e67a958d97 *man/eval_str.Rd
@@ -29,6 +30,7 @@ c0d146b08711801b498808c9c84004c2 *man/fetch_fdim.Rd
 642597947d7be771b7224cee7245270d *man/fetch_fit_example.Rd
 dea6812d6a7fc8bb1408e5aba0ab7dc6 *man/fetch_option.Rd
 6b4a6a8c783d28f27633e67acae6b5fb *man/figures/nlmixr2rpt_hex.png
+6c6c68c7ff3c55fe41376240d77cabf8 *man/gen_eqn_table.Rd
 faaa64621b07a8c8d5bf06b09590bca2 *man/gen_pest_table.Rd
 55a0d0c5b2c689bed1ffe8b2c48dd72b *man/mk_error_fig.Rd
 6f6b23e7c518d542beefc9d4ba2daf87 *man/mk_error_tab.Rd
@@ -38,6 +40,7 @@ ac11e5ab1737264e80ddce0e5a7cd951 *man/report_fit.Rd
 830f4bc8406676f4d07f72312fbee9c4 *man/write_figure.Rd
 f92ce5684bcc9129496e90c017adf441 *man/yaml_read_fit.Rd
 31e9e03a3a25cc45da68081ed0b0389d *tests/testthat.R
+ccaafd2f52878b8a47ab1c94f6a56a99 *tests/testthat/test-gen_eqn_table.R
 eb45bd33136a9ff53518322470eb6aa6 *tests/testthat/test-rptnlmixr.R
 49756a209eb2fe410b0aa0cd7172d643 *vignettes/Accessing_Figures_and_Tables.Rmd
 5b962253fc8a39f59b2f2d5aefcf5335 *vignettes/Reporting_nlmixr_Fit_Results.Rmd
